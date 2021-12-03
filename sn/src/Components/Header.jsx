@@ -24,7 +24,7 @@ let Header=()=>{
                         <img src={logo }  alt='not found' className={s.logo}></img>
                     </div>
                     <div className={s.searchInput}>
-                    <div className="input-group mb-3">
+                    <div className="input-group ">
                         <input type="text" className="form-control" placeholder="Search..." aria-label="Text" aria-describedby="basic-addon2"></input><button> <i  className='fa fa-search'></i></button>
                 </div> 
                     </div>
@@ -44,12 +44,10 @@ let Header=()=>{
                 </div>
                 <div className={s.box3}>
                     <div>
-                        <div className="image">
+                        <div className={s.imageDiv}>
                             <img src={userpic}/>
                         </div>
-                        <div className='Name'>
-
-                        </div>
+                        <span>John</span>
                     </div>
                 </div>
             </div>

@@ -4,6 +4,9 @@
     grid-template-columns: 2fr 4fr 1fr ;
 
 }
+.listElements{
+    height: 100%;
+}
 .listElements ul{
     list-style-type: none;
     float: right;
@@ -15,6 +18,7 @@
     margin-right: 15px;
 }
 .listElements ul li a{
+    font-size: 0.8em;
     color: white;
     text-decoration: none;
     font-size: 11px;
@@ -48,19 +52,30 @@
 }
 
 .box1{
-    padding-top: 5px;
+    margin-top: 7px;
 }
 .box2{
-    padding-top: 5px;
-}
+    padding-top: 2%;
+ } 
 .box3{
-    padding-top: 5px;
+    padding-top: 10%;
+    padding-left: 10%;
     height: 100%;
     width: 100%;
     border-left: 0.3px solid #dd3e2b;
     border-right: 0.3px solid #dd3e2b;
 }
+.box3 span{
+margin-left: 5%;
+color: white;
+}
 
-.userpic img{
-    height: 35px;
+.imageDiv  img{
+    height: 100%;
+}
+
+.imageDiv{
+    height: 30px;
+    display: inline-block;
+    width: 30px;
 }
