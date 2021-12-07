@@ -8,9 +8,9 @@ let LeftSide=()=>{
 
     return <div className={s.wrapper}>
         
-    <LeftSideComI/>c
-    <LeftSideFol/>F
-    <LeftSidePro/>P
+    <LeftSideComI/>
+    <LeftSideFol/>
+    <LeftSidePro/>
     </div>
     
 }

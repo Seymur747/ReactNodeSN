@@ -1,0 +1,95 @@
+.wrapper {
+  display: inline-block;
+  background: white;
+  border-top: 5px solid #dd3e2b;
+  width: 100%;
+  padding: 15px; }
+
+.buttons {
+  float: right; }
+  .buttons button {
+    margin-right: 10px; }
+
+.leftAreaSide {
+  display: inline-block;
+  height: 50px;
+  width: 50px; }
+  .leftAreaSide img {
+    height: 100%;
+    width: 100%; }
+
+.wrapper2 {
+  margin-top: 4%;
+  background: white;
+  padding: 4%; }
+  .wrapper2 .uIcons2 {
+    float: right; }
+    .wrapper2 .uIcons2 li {
+      margin-right: 10px;
+      padding: 7px;
+      background: #53d690;
+      border-radius: 5px; }
+      .wrapper2 .uIcons2 li i {
+        color: white; }
+    .wrapper2 .uIcons2 li:nth-child(2) {
+      background: #e44d3a; }
+  .wrapper2 p {
+    color: #666666;
+    line-height: 24px;
+    font-size: 15px; }
+  .wrapper2 .reqiurements {
+    margin: 4%;
+    margin-left: 0%; }
+    .wrapper2 .reqiurements button {
+      background-color: #51a5fb;
+      color: white;
+      border: 0px;
+      border-radius: 5px;
+      margin-right: 3%; }
+  .wrapper2 h5 {
+    font-size: 16px; }
+  .wrapper2 .descr {
+    margin-top: 3%; }
+    .wrapper2 .descr li {
+      margin-right: 1em; }
+  .wrapper2 ul {
+    list-style: none;
+    display: inline-block; }
+    .wrapper2 ul li {
+      float: left; }
+  .wrapper2 img {
+    display: inline-block; }
+  .wrapper2 .uDatas .uImage {
+    height: 50px;
+    width: 50px;
+    float: left; }
+  .wrapper2 .uDatas img {
+    height: 100%;
+    width: 100%; }
+  .wrapper2 .uDatas > div {
+    display: inline-block; }
+  .wrapper2 span {
+    color: #b2b2b2;
+    font-size: 14px;
+    font-weight: 500; }
+  .wrapper2 a {
+    color: #b2b2b2; }
+  .wrapper2 .skils {
+    padding: 3% 0% 1% 0%; }
+    .wrapper2 .skils li {
+      font-size: 14px;
+      margin-right: 6px;
+      padding: 7px 14px 7px 14px;
+      background: #f1f1f1;
+      border-radius: 30px;
+      color: #b2b2b2; }
+  .wrapper2 .uInfos {
+    margin-left: 1em; }
+  .wrapper2 .viewsDiv {
+    float: right; }
+  .wrapper2 .bottomIcons {
+    border-top: 1px solid  #e5e5e5; }
+  .wrapper2 .LeftSideIcons {
+    display: inline-block; }
+
+/*# sourceMappingURL=Center.module.css.map */

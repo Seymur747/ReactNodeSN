@@ -1,0 +1,40 @@
+.up{
+    height: 102px;
+    background: #dd3e2b;
+}
+.wrapper {
+    border: 1px solid #e5e5e5;
+    width: 260px;
+    background: white;
+    text-align: center;
+    border-top: 6em solid #dd3e2b;
+    >div{
+        border-bottom: 1px solid #e5e5e5;
+      }
+      
+    }
+   
+.commonInfo{
+    position: relative;
+    bottom: 3em;
+    img{
+        border-radius: 100%;
+        border: 5px solid white;
+    }
+    .textInfo{
+        span{
+            font-size: 14px;
+            color: #686868;
+        }
+    }
+}
+.textInfo{
+    margin-top: 5%;
+}
+h6{
+    font-size: 20px;
+    color: #686868;
+}
+
+.FollowDivs{
+    padding: 20px;}

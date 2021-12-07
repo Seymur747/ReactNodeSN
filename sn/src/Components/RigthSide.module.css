@@ -1,0 +1,22 @@
+.infoBox {
+  background: white;
+  text-align: center;
+  padding: 20px; }
+  .infoBox h5 {
+    font-size: 20px;
+    font-weight: 600; }
+  .infoBox span {
+    color: #686868;
+    font-size: 14px; }
+  .infoBox a {
+    color: #e44d3a;
+    font-size: 14px;
+    font-weight: 500; }
+  .infoBox > div {
+    padding-bottom: 10%; }
+
+.downDiv {
+  padding: 5%;
+  border-top: 1px solid #e5e5e5; }
+
+/*# sourceMappingURL=RigthSide.module.css.map */

@@ -1,0 +1,133 @@
+.wrapper{
+    display: inline-block;
+    background: white;
+    border-top: 5px solid #dd3e2b;
+    width: 100%;
+    padding: 15px;
+}
+.buttons{
+    float: right;
+    button{
+        margin-right: 10px;
+    }
+}
+
+.leftAreaSide{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    img{
+        height: 100%;
+        width: 100%;
+    }
+}
+
+.wrapper2{
+    .uIcons2{
+        float: right;
+        li{
+            margin-right: 10px;
+            // margin-top: 10px;
+            padding: 7px;
+            background: #53d690;
+            border-radius: 5px;
+        i{
+            color: white;
+        }
+        }
+        li:nth-child(2){
+            background: #e44d3a;
+        }
+    }
+    p{
+        color: #666666;
+        line-height: 24px;
+        font-size: 15px;
+    }
+    .reqiurements{
+        margin: 4%;
+        margin-left: 0%;
+        button{
+            background-color: #51a5fb;
+            color: white;
+            border :0px;
+            border-radius: 5px;
+            margin-right: 3%;
+        }
+    }
+
+    h5{
+        font-size: 16px;
+    }
+    .descr{
+        
+        margin-top: 3%;
+        li{
+            margin-right: 1em;
+        }
+    }
+
+    margin-top: 4%;
+    background: white;
+    padding: 4%;
+    ul{
+        list-style: none;
+        display: inline-block;
+        li{
+            float: left;
+        }
+    }
+    img{
+        display: inline-block;
+    }
+    .uDatas{
+        .uImage{
+            height: 50px;
+            width: 50px;
+            float: left;
+        }
+        
+        img{
+            height: 100%;
+            width: 100%;
+        }
+        >div{
+            display: inline-block;
+        }
+        
+    }
+    span{
+        color: #b2b2b2 ;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    a{
+        color:#b2b2b2 ;
+    }
+    .skils
+    {
+        padding: 3% 0% 1% 0%;
+        li{
+            font-size: 14px;
+            margin-right:6px;
+            padding: 7px 14px 7px 14px;
+            background: #f1f1f1;
+            border-radius: 30px;
+            color: #b2b2b2;
+        }
+
+    }
+    .uInfos{
+        margin-left: 1em;
+    }
+    .viewsDiv{
+        float: right;
+    }
+    .bottomIcons{
+        border-top: 1px solid  #e5e5e5;
+    }
+    .LeftSideIcons{
+     display: inline-block;
+    }
+    
+}
